@@ -11,9 +11,9 @@ yapf = "*"
 isort = "*"
 flake8 = "*"
 mypy = "*"
+pytest = "*"
 
 [packages]
-
 
 [requires]
 python_version = "3.7"
