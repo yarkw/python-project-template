@@ -6,11 +6,10 @@
     "python.linting.banditEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.lintOnSave": true,
-    "python.linting.mypyEnabled": false,
+    "python.linting.mypyEnabled": true,
     "python.linting.prospectorEnabled": false,
     "python.linting.pycodestyleEnabled": false,
     "python.linting.pydocstyleEnabled": true,
     "python.linting.pylamaEnabled": false,
-    "python.linting.pylintEnabled": false,
-    "python.pythonPath": "/home/yarkw/.local/share/virtualenvs/python-project-template-HsuTRlgb/bin/python"
+    "python.linting.pylintEnabled": false
 }

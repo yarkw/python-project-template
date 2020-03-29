@@ -10,8 +10,10 @@ pylint = "*"
 yapf = "*"
 isort = "*"
 flake8 = "*"
+mypy = "*"
 
 [packages]
+
 
 [requires]
 python_version = "3.7"
