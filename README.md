@@ -33,4 +33,4 @@ pipenv install
 
 ## Testing
 
-* Todo: use [pytest](https://docs.pytest.org/en/latest/)
+* Use [pytest](https://docs.pytest.org/en/latest/)
